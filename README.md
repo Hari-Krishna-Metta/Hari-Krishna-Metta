@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hari-Krishna-Metta
 - 👀 I’m interested in development
-- 🌱 I’m currently learning  web development
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me mettaharikrishna@gmail.com
 
