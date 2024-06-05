@@ -9,10 +9,6 @@ You can click the Preview link to take a look at your changes.
  <img  align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="coding" width="400"/>
 
 
-- 🔭 I’m currently working on [Voting System](https://github.com/Bharathmaradana/voting-frontend.git)
-
-- 🌱 I’m currently learning **Django**
-
 - 💬 Ask me about **React js , DSA**
 
 - 📫 How to reach me **mettaharikrishna@gmail.com**
